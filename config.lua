@@ -1,0 +1,4 @@
+Juls = {}
+
+Juls.Command = 'atts'
+
